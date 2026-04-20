@@ -12,32 +12,6 @@ Ce projet analyse les données d'écoute d'un utilisateur Spotify pour extraire 
 - Visualisations des données
 - Statistiques détaillées sur les habitudes d'écoute
 
-## Installation
-
-1. Clonez le dépôt :
-```bash
-git clone https://github.com/[votre-username]/projet-spotify.git
-cd projet-spotify
-```
-
-2. Installez les dépendances :
-```bash
-pip install -r requirements.txt
-```
-
-## Utilisation
-
-Exécutez le script d'analyse :
-```bash
-python code/analyse_spotify.py
-```
-
-Le script générera :
-- Des statistiques dans la console
-- Des visualisations dans le dossier `code/` :
-  - `top_artists.png` : Top 10 des artistes les plus écoutés
-  - `hourly_plays.png` : Distribution des écoutes par heure
-  - `daily_plays.png` : Distribution des écoutes par jour
 
 ## Dépendances
 
